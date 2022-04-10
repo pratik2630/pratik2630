@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratik2630
-- 🌱  DevOps | MERN Stack | Flutter | Machine Learning
+- 🌱  DevOps | MERN Stack | Flutter | AI  | Machine Learning
 - 💞️ I’m looking to collaborate on new real world projects.
 - 📫Where can you find me ...
 
