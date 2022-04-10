@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratik2630
-- 🌱 I’m currently learning MLOps(Machine Learning + DevOps)
+- 🌱  DevOps | MERN Stack | Flutter | Machine Learning
 - 💞️ I’m looking to collaborate on new real world projects.
 - 📫Where can you find me ...
 
